@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ERC20_Exchange/static/css/main.a617e044.chunk.css",
+    "main.js": "/ERC20_Exchange/static/js/main.37ff552b.chunk.js",
+    "main.js.map": "/ERC20_Exchange/static/js/main.37ff552b.chunk.js.map",
+    "runtime-main.js": "/ERC20_Exchange/static/js/runtime-main.5072ab41.js",
+    "runtime-main.js.map": "/ERC20_Exchange/static/js/runtime-main.5072ab41.js.map",
+    "static/js/2.b395e8ef.chunk.js": "/ERC20_Exchange/static/js/2.b395e8ef.chunk.js",
+    "static/js/2.b395e8ef.chunk.js.map": "/ERC20_Exchange/static/js/2.b395e8ef.chunk.js.map",
+    "static/js/3.21911513.chunk.js": "/ERC20_Exchange/static/js/3.21911513.chunk.js",
+    "static/js/3.21911513.chunk.js.map": "/ERC20_Exchange/static/js/3.21911513.chunk.js.map",
+    "index.html": "/ERC20_Exchange/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ERC20_Exchange/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b395e8ef.chunk.js.LICENSE.txt": "/ERC20_Exchange/static/js/2.b395e8ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5072ab41.js",
+    "static/js/2.b395e8ef.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.37ff552b.chunk.js"
+  ]
+}
